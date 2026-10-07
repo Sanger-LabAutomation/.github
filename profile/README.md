@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Joining the Organisation
-If you need to join the Sanger_LabAutomation organisation, please reach out to [Chris](https://github.com/ChrisH33), [Tobi](https://github.com/tobiajenifuja) or [Kira](https://github.com/KiraNelms).
+If you need to join the Sanger_LabAutomation organisation, please reach out to [Chris](https://github.com/ChrisH33), [Tobi](https://github.com/tobiajenifuja) or [Kira](https://github.com/KiraNelms). You will need to create a personal GitHub account before you can join, which can be done [here](https://github.com/login).
 
 <!--
 
