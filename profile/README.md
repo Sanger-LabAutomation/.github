@@ -12,7 +12,30 @@ Organisation roles grant members with the ability to take specific actions or ma
  - **Security Managers**: Organisation-level role that can be assigned to anyone. Provides access to security alerts and manage security feature, as well as read permission for all repos
  - **Collaborators**: Person with access to one or more Sanger_LabAutomation repositories but is not explicitly a member of the organisation (consultant or temporary employee).
 
- 
+## GitHub 101
+A repository is the most basic element of GitHub. It's a place to store code, files, and file revision history. They can have multiple collaborators, and be either public or private. Repositories can be owned individually, or shared within an organisation.
+
+
+### Repository terminology
+
+| Term         | Definition                                                                                                                                            
+| ------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| Branch       | A parallel version of your code that is contained within the repository, but does not affect the primary or main branch.                                     |
+| Clone        | To download a full copy of a repository's data from GitHub.com, including all versions of every file and folder.                                             |
+| Fork         | A new repository that shares code and visibility settings with the original "upstream" repository.                                                           |
+| Merge        | To take the changes from one branch and apply them to another.                                                                                               |
+| Pull request | A request to merge changes from one branch into another.                                                                                                     |
+| Remote       | A repository stored on GitHub, not on your computer.                                                                                                     |
+| Commit       | A snapshot of the repo at a particular point in time.|
+
+### Collaboration
+You can use repo's to manage your work and collaborate with others. Issues can track user feedback, report bugs, and organise tasks. Discussions allow you to share answers and talk through problems. Projects let you organise and prioritise issues.
+To streamline collaboration, we recommend that we share a single repository, creating pull requests between branches. Forking is better suited for accepting contributions from people that're unaffiliated with the project. Collaborators have access to contribute to your code and manage issues and pull requests.
+
+You can send an invitation to collaborate directly through GitHub, or to the person's email address. 
+
+### Committing Changes
+When a change is committed, you should provide a short, meaningful commit message that describes the change you made. You can attribute this to more than one author if appropriate. Commits can either be added to the current branch, or to a new branch. 
 <!--
 
 **Here are some ideas to get you started:**
