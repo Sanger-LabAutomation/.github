@@ -38,11 +38,4 @@ You can send an invitation to collaborate directly through GitHub, or to the per
 When a change is committed, you should provide a short, meaningful commit message that describes the change you made. You can attribute this to more than one author if appropriate. Commits can either be added to the current branch, or to a new branch. 
 <!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img width="1448" height="1086" alt="Assay Error_ V_3_FINAL_2" src="https://github.com/user-attachments/assets/c63e1809-d1ea-4ab6-976e-f97d8cadcf94" />
